@@ -10,29 +10,9 @@ The notebook covers:
 
 Exploratory Data Analysis (EDA): Insightful visualizations and correlation heatmaps to understand relationships between features.
 
-Data Preprocessing:
+Data Preprocessing:Handling missing values,Encoding categorical variables,Feature scaling
 
-Handling missing values
-
-Encoding categorical variables
-
-Feature scaling
-
-Model Training:
-
-KNN 
-
-Gradient Boosting Classifier
-
-Logistic Regression
-
-Random Forest
-
-Decision Tree
-
-XGBoost
-
-Support Vector Machine (SVM)
+Model Training:KNN ,Gradient Boosting Classifier,Logistic Regression,Random Forest,Decision Tree,XGBoost,Support Vector Machine (SVM)
 
 Model Evaluation:
 
@@ -45,7 +25,7 @@ Cross-validation
 📊 Dataset
 The dataset includes airline passenger feedback data with features such as:
 
-overall	seat_comfort	cabin_service	food_bev	entertainment	ground_service	value_for_money 
+customer_review,traveller_type ,overall	,seat_comfort	,cabin_service	,food_bev,	entertainment	,ground_service,	value_for_money 
 
 
 Target: Likelihood of recommending the airline
