@@ -23,6 +23,7 @@ Confusion Matrices
 Cross-validation
 
 📊 Dataset
+Dataset Link-https://drive.google.com/file/d/1sSZGUqWpv3NfSdOMxC070fAragKnRMMS/view?usp=sharing
 The dataset includes airline passenger feedback data with features such as:
 
 customer_review,traveller_type ,overall	,seat_comfort	,cabin_service	,food_bev,	entertainment	,ground_service,	value_for_money 
@@ -36,12 +37,6 @@ The target variable is binary: 0 = Not Recommended, 1 = Recommended
 SVC and XGBoost performed best, achieving the highest accuracy and F1-score.
 
 🧰 Technologies Used
-Python
+Python,Pandas, NumPy,Scikit-learn,XGBoost,Matplotlib, Seaborn
 
-Pandas, NumPy
 
-Scikit-learn
-
-XGBoost
-
-Matplotlib, Seaborn
