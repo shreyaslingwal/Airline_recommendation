@@ -31,7 +31,7 @@ customer_review,traveller_type ,overall	,seat_comfort	,cabin_service	,food_bev,	
 
 Target: Likelihood of recommending the airline
 
-The target variable is binary: 0 = Not Recommended, 1 = Recommended
+The target variable is binary: 0 = Not Recommended(NO), 1 = Recommended(YES)
 
 ✅ Key Findings
 SVC and XGBoost performed best, achieving the highest accuracy and F1-score.
